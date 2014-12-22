@@ -28,6 +28,13 @@
 
     $ DEBUG=gulp-watch-local-packages …
 
+## Requires
+
+- [npm@2.0.0] or greater.
+
 ## License
 
   [MIT](license)
+
+
+[npm@2.0.0]: http://blog.npmjs.org/post/98131109725/npm-2-0-0
